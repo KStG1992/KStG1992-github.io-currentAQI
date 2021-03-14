@@ -1,0 +1,311 @@
+,Defining Site,Latitude,Longitude,Elevation,LandUse,LocationSetting,StateName,CountyName,CountyCode,City,CBSAName,Time,Date,CurrentAQIValue,CurrentPollutant
+1,06-001-0002,37.533243,-121.958813,22.0,COMMERCIAL,URBAN AND CENTER CITY,California,Alameda,1,Fremont,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,41,OZONE
+2,06-001-0003,37.6849,-121.7659,150.0,COMMERCIAL,URBAN AND CENTER CITY,California,Alameda,1,Livermore,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,40,OZONE
+3,06-001-0004,37.800484,-122.266358,38.0,COMMERCIAL,URBAN AND CENTER CITY,California,Alameda,1,Oakland,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,37,OZONE
+4,06-001-0006,37.710229,-122.116899,43.0,RESIDENTIAL,SUBURBAN,California,Alameda,1,Castro Valley,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,41,OZONE
+5,06-001-0013,37.864767,-122.302741,2.7,COMMERCIAL,URBAN AND CENTER CITY,California,Alameda,1,Not in a City,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,30,OZONE
+6,06-001-0015,37.701222,-121.903019,101.0,RESIDENTIAL,SUBURBAN,California,Alameda,1,Pleasanton,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,40,OZONE
+7,06-001-2001,37.654456,-122.031547,290.0,RESIDENTIAL,RURAL,California,Alameda,1,Hayward,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,41,OZONE
+8,06-001-5001,37.718442,-122.160997,23.0,INDUSTRIAL,URBAN AND CENTER CITY,California,Alameda,1,San Leandro,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,37,OZONE
+9,06-001-6002,37.59369,-121.87622,143.0,RESIDENTIAL,SUBURBAN,California,Alameda,1,Sunol,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,41,OZONE
+11,06-007-0001,39.73515,-121.841897,599.0,RESIDENTIAL,URBAN AND CENTER CITY,California,Butte,7,Chico,"Chico, CA",5 PM PST, Mar 10,35,OZONE
+12,06-007-0004,39.316556,-121.667749,0.0,AGRICULTURAL,RURAL,California,Butte,7,Gridley,"Chico, CA",5 PM PST, Mar 10,1,PM2.5
+13,06-007-0006,39.776551,-121.607473,0.0,RESIDENTIAL,RURAL,California,Butte,7,Paradise,"Chico, CA",5 PM PST, Mar 10,37,OZONE
+14,06-007-1001,39.512386,-121.555248,53.0,COMMERCIAL,URBAN AND CENTER CITY,California,Butte,7,Oroville,"Chico, CA",5 PM PST, Mar 10,37,OZONE
+15,06-007-3001,39.402944,-121.719974,0.0,AGRICULTURAL,RURAL,California,Butte,7,Biggs,"Chico, CA",5 PM PST, Mar 10,1,PM2.5
+20,06-013-0001,37.886869,-122.027462,32.0,RESIDENTIAL,SUBURBAN,California,Contra Costa,13,Concord,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,32,OZONE
+21,06-013-0003,37.949924,-122.357193,23.0,COMMERCIAL,SUBURBAN,California,Contra Costa,13,Richmond,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,42,OZONE
+22,06-013-0004,37.957424,-122.370249,7.0,RESIDENTIAL,SUBURBAN,California,Contra Costa,13,North Richmond,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,42,OZONE
+23,06-013-0007,38.034331,-122.270336,12.0,RESIDENTIAL,URBAN AND CENTER CITY,California,Contra Costa,13,Rodeo,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,32,OZONE
+24,06-013-0010,38.031221,-122.132877,36.0,COMMERCIAL,URBAN AND CENTER CITY,California,Contra Costa,13,Crockett,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,32,OZONE
+25,06-013-1002,38.006311,-121.641918,-2.0,AGRICULTURAL,RURAL,California,Contra Costa,13,Bethel Island,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,10,PM2.5
+26,06-013-1003,37.9642,-122.3403,15.0,COMMERCIAL,URBAN AND CENTER CITY,California,Contra Costa,13,San Pablo,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,42,OZONE
+27,06-013-2001,38.012816,-122.134467,8.0,RESIDENTIAL,URBAN AND CENTER CITY,California,Contra Costa,13,Martinez,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,32,OZONE
+28,06-013-2005,37.90872,-122.071,59.8,COMMERCIAL,URBAN AND CENTER CITY,California,Contra Costa,13,Walnut Creek,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,32,OZONE
+29,06-013-2007,37.743649,-121.934188,119.0,RESIDENTIAL,SUBURBAN,California,Contra Costa,13,San Ramon,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,40,OZONE
+30,06-013-3001,38.029258,-121.896866,2.0,RESIDENTIAL,URBAN AND CENTER CITY,California,Contra Costa,13,Pittsburg,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,32,OZONE
+31,06-013-4001,37.926568,-122.078266,38.0,RESIDENTIAL,SUBURBAN,California,Contra Costa,13,Pleasant Hill (Pleasant Hills),"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,32,OZONE
+32,06-015-0001,41.752893,-124.199525,10.0,COMMERCIAL,RURAL,California,Del Norte,15,Crescent City,"Crescent City, CA",5 PM PST, Mar 10,23,PM2.5
+34,06-015-0003,41.845113,-123.979242,119.0,COMMERCIAL,RURAL,California,Del Norte,15,Gasquet,"Crescent City, CA",5 PM PST, Mar 10,23,PM2.5
+35,06-015-2003,41.513803,-123.996283,13.0,RESIDENTIAL,RURAL,California,Del Norte,15,Klamath,"Crescent City, CA",5 PM PST, Mar 10,23,PM2.5
+36,06-017-0002,38.727681,-120.826047,582.0,MOBILE,SUBURBAN,California,El Dorado,17,Placerville,"Sacramento--Roseville--Arden-Arcade, CA",5 PM PST, Mar 10,37,OZONE
+37,06-017-0004,38.916575,-120.001015,1904.0,RESIDENTIAL,SUBURBAN,California,El Dorado,17,South Lake Tahoe,"Sacramento--Roseville--Arden-Arcade, CA",5 PM PST, Mar 10,4,PM10
+38,06-017-2002,38.673793,-120.942162,462.0,RESIDENTIAL,RURAL,California,El Dorado,17,Shingle Springs,"Sacramento--Roseville--Arden-Arcade, CA",5 PM PST, Mar 10,37,OZONE
+39,06-017-2003,38.842126,-120.407631,1.0,BLIGHTED AREAS,RURAL,California,El Dorado,17,Riverton,"Sacramento--Roseville--Arden-Arcade, CA",5 PM PST, Mar 10,37,OZONE
+40,06-019-0001,36.145789,-120.359316,213.0,RESIDENTIAL,SUBURBAN,California,Fresno,19,Coalinga,"Fresno, CA",5 PM PST, Mar 10,41,OZONE
+41,06-019-0002,36.737172,-119.753754,91.0,RESIDENTIAL,URBAN AND CENTER CITY,California,Fresno,19,Fresno,"Fresno, CA",5 PM PST, Mar 10,32,OZONE
+42,06-019-0010,37.13828,-119.267624,0.0,FOREST,RURAL,California,Fresno,19,Shaver Lake,"Fresno, CA",5 PM PST, Mar 10,32,OZONE
+43,06-019-1001,36.868282,-120.462675,44.0,UNKNOWN,UNKNOWN,California,Fresno,19,Firebaugh,"Fresno, CA",5 PM PST, Mar 10,36,OZONE
+44,06-019-1002,36.341062,-120.105699,87.0,AGRICULTURAL,RURAL,California,Fresno,19,Five Points,"Fresno, CA",5 PM PST, Mar 10,25,OZONE
+45,06-019-2008,36.198672,-120.101096,113.08,RESIDENTIAL,RURAL,California,Fresno,19,Huron,"Fresno, CA",5 PM PST, Mar 10,25,OZONE
+46,06-019-3002,36.607171,-119.540683,0.0,AGRICULTURAL,URBAN AND CENTER CITY,California,Fresno,19,Parlier,"Fresno, CA",5 PM PST, Mar 10,32,OZONE
+47,06-019-5001,36.819449,-119.716433,86.0,RESIDENTIAL,URBAN AND CENTER CITY,California,Fresno,19,Clovis,"Fresno, CA",5 PM PST, Mar 10,32,OZONE
+49,06-023-0001,40.77596,-124.190062,20.0,INDUSTRIAL,URBAN AND CENTER CITY,California,Humboldt,23,Eureka,"Eureka-Arcata-Fortuna, CA",5 PM PST, Mar 10,17,PM10
+50,06-023-0002,40.869017,-124.085062,16.0,COMMERCIAL,URBAN AND CENTER CITY,California,Humboldt,23,Arcata,"Eureka-Arcata-Fortuna, CA",5 PM PST, Mar 10,17,PM10
+51,06-023-0010,40.884573,-123.99256,0.0,COMMERCIAL,RURAL,California,Humboldt,23,Blue Lake,"Eureka-Arcata-Fortuna, CA",5 PM PST, Mar 10,17,PM10
+52,06-023-1001,41.049847,-124.15118,53.0,UNKNOWN,RURAL,California,Humboldt,23,Trinidad,"Eureka-Arcata-Fortuna, CA",5 PM PST, Mar 10,17,PM10
+53,06-023-2001,41.289,-123.857,150.0,FOREST,RURAL,California,Humboldt,23,Not in a city,"Eureka-Arcata-Fortuna, CA",5 PM PST, Mar 10,30,OZONE
+54,06-025-0001,32.979213,-115.530267,34.0,COMMERCIAL,URBAN AND CENTER CITY,California,Imperial,25,Brawley,"El Centro, CA",5 PM PST, Mar 10,25,PM10
+55,06-025-0004,32.673948,-115.503884,0.0,RESIDENTIAL,SUBURBAN,California,Imperial,25,Calexico,"El Centro, CA",5 PM PST, Mar 10,45,PM10
+56,06-025-1002,32.792278,-115.565829,0.0,COMMERCIAL,URBAN AND CENTER CITY,California,Imperial,25,El Centro,"El Centro, CA",5 PM PST, Mar 10,59,PM10
+57,06-025-2001,33.177818,-115.610824,0.0,AGRICULTURAL,RURAL,California,Imperial,25,Calipatria,"El Centro, CA",5 PM PST, Mar 10,59,PM10
+58,06-025-4001,33.118934,-115.816389,0.0,AGRICULTURAL,RURAL,California,Imperial,25,Westmorland,"El Centro, CA",5 PM PST, Mar 10,35,OZONE
+60,06-027-0001,37.35354,-118.400943,1260.0,MOBILE,URBAN AND CENTER CITY,California,Inyo,27,Bishop,"Bishop, CA",5 PM PST, Mar 10,44,OZONE
+62,06-027-0004,36.609003,-118.057809,1128.0,RESIDENTIAL,SUBURBAN,California,Inyo,27,Lone Pine,"Bishop, CA",5 PM PST, Mar 10,13,PM2.5
+63,06-027-0005,36.8166,-118.211207,1196.0,DESERT,RURAL,California,Inyo,27,Independence,"Bishop, CA",5 PM PST, Mar 10,13,PM2.5
+64,06-027-0010,37.024377,-118.225932,1173.0,UNKNOWN,RURAL,California,Inyo,27,Big Pine,"Bishop, CA",5 PM PST, Mar 10,44,OZONE
+66,06-027-0018,35.799673,-117.872294,766.0,RESIDENTIAL,RURAL,California,Inyo,27,Pearsonville,"Bishop, CA",5 PM PST, Mar 10,31,PM10
+67,06-027-0027,37.407244,-118.345308,1500.0,COMMERCIAL,RURAL,California,Inyo,27,Laws,"Bishop, CA",5 PM PST, Mar 10,44,OZONE
+68,06-027-1002,36.483824,-117.867858,1097.0,UNKNOWN,UNKNOWN,California,Inyo,27,Keeler,"Bishop, CA",5 PM PST, Mar 10,17,PM10
+69,06-027-1014,36.043833,-117.947021,0.0,DESERT,RURAL,California,Inyo,27,Coso Junction,"Bishop, CA",5 PM PST, Mar 10,31,PM10
+70,06-029-0001,35.383592,-119.017598,123.0,INDUSTRIAL,SUBURBAN,California,Kern,29,Bakersfield,"Bakersfield, CA",5 PM PST, Mar 10,17,PM2.5
+71,06-029-0005,35.573287,-118.528976,705.0,UNKNOWN,UNKNOWN,California,Kern,29,Miracle Hot Springs (Hobo Hot Springs),"Bakersfield, CA",5 PM PST, Mar 10,17,PM2.5
+72,06-029-0006,35.312186,-119.617624,324.0,INDUSTRIAL,RURAL,California,Kern,29,McKittrick,"Bakersfield, CA",5 PM PST, Mar 10,36,OZONE
+73,06-029-0008,35.051454,-119.40262,289.0,RESIDENTIAL,SUBURBAN,California,Kern,29,Maricopa,"Bakersfield, CA",5 PM PST, Mar 10,17,PM2.5
+74,06-029-0011,35.050551,-118.147294,853.0,MOBILE,RURAL,California,Kern,29,Mojave,"Bakersfield, CA",5 PM PST, Mar 10,29,OZONE
+75,06-029-0012,35.630234,-117.66978600000002,723.0,MOBILE,URBAN AND CENTER CITY,California,Kern,29,Ridgecrest,"Bakersfield, CA",3 PM PST, Mar 10,37,OZONE
+76,06-029-0013,35.651343,-117.826457,759.0,COMMERCIAL,RURAL,California,Kern,29,Inyokern,"Bakersfield, CA",3 PM PST, Mar 10,37,OZONE
+77,06-029-0230,35.431068,-119.021767,168.0,RESIDENTIAL,SUBURBAN,California,Kern,29,Oildale,"Bakersfield, CA",5 PM PST, Mar 10,17,PM2.5
+79,06-029-1002,35.003587,-117.650337,747.0,COMMERCIAL,RURAL,California,Kern,29,Boron,"Bakersfield, CA",5 PM PST, Mar 10,29,OZONE
+80,06-029-1005,35.133299,-118.425918,1167.0,AGRICULTURAL,RURAL,California,Kern,29,Tehachapi,"Bakersfield, CA",5 PM PST, Mar 10,29,OZONE
+82,06-029-2003,35.1433,-119.465675,300.0,RESIDENTIAL,RURAL,California,Kern,29,Taft,"Bakersfield, CA",5 PM PST, Mar 10,17,PM2.5
+83,06-029-5001,35.208295,-118.785374,145.0,AGRICULTURAL,RURAL,California,Kern,29,Arvin,"Bakersfield, CA",5 PM PST, Mar 10,17,PM2.5
+84,06-029-6001,35.503587,-119.272606,126.0,COMMERCIAL,SUBURBAN,California,Kern,29,Shafter,"Bakersfield, CA",5 PM PST, Mar 10,17,PM2.5
+85,06-029-9001,34.821922,-118.887598,1.0,MOBILE,RURAL,California,Kern,29,Lebec,"Bakersfield, CA",5 PM PST, Mar 10,39,OZONE
+86,06-029-9901,35.69868,-118.20301299999998,914.0,FOREST,RURAL,California,Kern,29,Onyx,"Bakersfield, CA",5 PM PST, Mar 10,31,PM10
+87,06-031-0002,36.09884,-119.559568,62.0,AGRICULTURAL,RURAL,California,Kings,31,Corcoran,"Hanford-Corcoran, CA",5 PM PST, Mar 10,25,OZONE
+88,06-031-1001,36.282172,-119.645128,79.0,COMMERCIAL,URBAN AND CENTER CITY,California,Kings,31,Hanford,"Hanford-Corcoran, CA",5 PM PST, Mar 10,34,OZONE
+89,06-031-1002,36.007175,-119.959855,75.0,AGRICULTURAL,RURAL,California,Kings,31,Kettleman City,"Hanford-Corcoran, CA",5 PM PST, Mar 10,25,OZONE
+90,06-033-0002,39.155724,-122.845549,415.0,AGRICULTURAL,RURAL,California,Lake,33,Kelseyville,"Clearlake, CA",5 PM PST, Mar 10,32,OZONE
+91,06-033-0003,39.172112,-122.906107,413.0,AGRICULTURAL,RURAL,California,Lake,33,Upper Lake,"Clearlake, CA",5 PM PST, Mar 10,32,OZONE
+92,06-033-1001,38.956287,-122.647485,403.0,COMMERCIAL,URBAN AND CENTER CITY,California,Lake,33,Clearlake Highlands,"Clearlake, CA",5 PM PST, Mar 10,32,OZONE
+93,06-033-2001,39.048762,-122.916082,413.0,RESIDENTIAL,SUBURBAN,California,Lake,33,Lakeport,"Clearlake, CA",5 PM PST, Mar 10,32,OZONE
+94,06-033-3010,38.77453,-122.6995,435.0,FOREST,RURAL,California,Lake,33,Middletown,"Clearlake, CA",5 PM PST, Mar 10,38,OZONE
+95,06-033-3011,38.84846,-122.75797,736.0,FOREST,RURAL,California,Lake,33,Cobb,"Clearlake, CA",5 PM PST, Mar 10,38,OZONE
+96,06-035-1001,40.412396,-120.633283,1280.0,RESIDENTIAL,SUBURBAN,California,Lassen,35,Susanville,"Susanville, CA",5 PM PST, Mar 10,21,PM2.5
+97,06-037-0001,34.104175,-118.409246,195.0,UNKNOWN,UNKNOWN,California,Los Angeles,37,Beverly Hills,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,38,OZONE
+98,06-037-0002,34.1365,-117.92391,183.0,RESIDENTIAL,SUBURBAN,California,Los Angeles,37,Azusa,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,38,OZONE
+99,06-037-0003,34.10391,-117.868943,206.0,RESIDENTIAL,URBAN AND CENTER CITY,California,Los Angeles,37,Charter Oak,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,38,OZONE
+101,06-037-0005,34.136687,-117.860887,3.0,RESIDENTIAL,URBAN AND CENTER CITY,California,Los Angeles,37,Glendora,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,38,OZONE
+102,06-037-0017,34.064186,-118.207285,102.0,RESIDENTIAL,URBAN AND CENTER CITY,California,Los Angeles,37,Los Angeles,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,41,OZONE
+104,06-037-0019,33.342251,-118.323128,3.0,RESIDENTIAL,URBAN AND CENTER CITY,California,Los Angeles,37,Avalon,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,19,PM2.5
+105,06-037-0031,33.786111,-118.246389,0.0,RESIDENTIAL,URBAN AND CENTER CITY,California,Los Angeles,37,West Los Angeles,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,38,OZONE
+106,06-037-0201,33.886405,-118.268128,0.0,RESIDENTIAL,SUBURBAN,California,Los Angeles,37,Carson,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,19,PM2.5
+109,06-037-0206,33.958346,-117.84256,300.0,COMMERCIAL,URBAN AND CENTER CITY,California,Los Angeles,37,Diamond Bar,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,34,OZONE
+110,06-037-1001,34.181959,-118.328122,180.0,INDUSTRIAL,URBAN AND CENTER CITY,California,Los Angeles,37,Burbank,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,41,OZONE
+111,06-037-1003,34.133074,-118.124227,221.0,RESIDENTIAL,SUBURBAN,California,Los Angeles,37,Pasadena,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,41,OZONE
+112,06-037-1201,34.19925,-118.53276,226.0,COMMERCIAL,SUBURBAN,California,Los Angeles,37,Reseda,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,41,OZONE
+113,06-037-1301,33.92899,-118.21071,27.0,COMMERCIAL,URBAN AND CENTER CITY,California,Los Angeles,37,Lynwood,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,31,OZONE
+114,06-037-1302,33.901389,-118.205,27.0,RESIDENTIAL,URBAN AND CENTER CITY,California,Los Angeles,37,Compton,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,31,OZONE
+115,06-037-1401,34.386109000000005,-118.532586,383.0,COMMERCIAL,SUBURBAN,California,Los Angeles,37,Santa Clarita,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,36,OZONE
+116,06-037-1403,33.954952,-118.055768,44.0,INDUSTRIAL,URBAN AND CENTER CITY,California,Los Angeles,37,Santa Fe Springs,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,36,OZONE
+117,06-037-1405,34.006389,-118.193056,53.0,INDUSTRIAL,URBAN AND CENTER CITY,California,Los Angeles,37,Vernon,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,41,OZONE
+119,06-037-1701,34.067029999999995,-117.7514,270.0,COMMERCIAL,SUBURBAN,California,Los Angeles,37,Pomona,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,34,OZONE
+120,06-037-1801,33.856412,-118.384509,62.0,INDUSTRIAL,SUBURBAN,California,Los Angeles,37,Redondo Beach,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,32,OZONE
+121,06-037-1901,34.005575,-118.480069,34.0,RESIDENTIAL,SUBURBAN,California,Los Angeles,37,Santa Monica,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,38,OZONE
+122,06-037-1902,34.106396999999994,-118.414246,191.0,RESIDENTIAL,SUBURBAN,California,Los Angeles,37,Santa Monica Mountains National Recreation Area,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,38,OZONE
+123,06-037-2001,33.920022,-118.406732,53.0,INDUSTRIAL,SUBURBAN,California,Los Angeles,37,El Segundo,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,32,OZONE
+124,06-037-2002,34.186395000000005,-118.245908,737.0,RESIDENTIAL,RURAL,California,Los Angeles,37,Glendale,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,41,OZONE
+125,06-037-2101,34.105841,-118.06868,128.0,COMMERCIAL,URBAN AND CENTER CITY,California,Los Angeles,37,Temple City (Rudell),"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,41,OZONE
+126,06-037-2201,33.831692,-118.325618,46.0,RESIDENTIAL,URBAN AND CENTER CITY,California,Los Angeles,37,Torrance,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,19,PM2.5
+128,06-037-4002,33.82376,-118.18921,6.0,RESIDENTIAL,SUBURBAN,California,Los Angeles,37,Long Beach,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,19,PM2.5
+129,06-037-4009,33.793713000000004,-118.171019,8.0,COMMERCIAL,URBAN AND CENTER CITY,California,Los Angeles,37,Signal Hill,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,19,PM2.5
+130,06-037-5001,33.92288,-118.37026000000002,21.0,COMMERCIAL,URBAN AND CENTER CITY,California,Los Angeles,37,Hawthorne,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,32,OZONE
+131,06-037-5501,33.94156,-118.3658,0.0,COMMERCIAL,URBAN AND CENTER CITY,California,Los Angeles,37,Lennox,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,32,OZONE
+132,06-037-7001,34.712206,-118.140073,709.0,COMMERCIAL,URBAN AND CENTER CITY,California,Los Angeles,37,Lancaster,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,40,OZONE
+134,06-037-9006,34.556935,-118.112573,841.0,DESERT,RURAL,California,Los Angeles,37,Palmdale,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,40,OZONE
+135,06-039-0001,36.954669,-120.037383,82.0,COMMERCIAL,URBAN AND CENTER CITY,California,Madera,39,Madera,"Madera, CA",5 PM PST, Mar 10,36,OZONE
+136,06-041-0001,37.97231,-122.520004,3.0,COMMERCIAL,URBAN AND CENTER CITY,California,Marin,41,San Rafael,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,42,OZONE
+137,06-041-0002,38.122979,-122.90944,76.0,FOREST,RURAL,California,Marin,41,Point Reyes National Seashore,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,30,OZONE
+138,06-041-2001,38.015136,-122.689531,75.0,RESIDENTIAL,RURAL,California,Marin,41,Lagunitas-Forest Knolls,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,42,OZONE
+141,06-045-0001,39.435168,-123.80946000000002,35.0,COMMERCIAL,URBAN AND CENTER CITY,California,Mendocino,45,Fort Bragg,"Ukiah, CA",5 PM PST, Mar 10,32,OZONE
+142,06-045-0003,39.15098,-123.196369,218.0,COMMERCIAL,URBAN AND CENTER CITY,California,Mendocino,45,Ukiah,"Ukiah, CA",5 PM PST, Mar 10,32,OZONE
+143,06-045-0009,39.402942,-123.350288,1377.0,MOBILE,SUBURBAN,California,Mendocino,45,Willits,"Ukiah, CA",5 PM PST, Mar 10,32,OZONE
+152,06-053-0001,36.521905,-121.806061,41.0,MOBILE,SUBURBAN,California,Monterey,53,Carmel Valley,"Salinas, CA",5 PM PST, Mar 10,35,OZONE
+153,06-053-0002,36.48187,-121.73333,131.0,RESIDENTIAL,SUBURBAN,California,Monterey,53,Carmel Valley Village,"Salinas, CA",5 PM PST, Mar 10,35,OZONE
+154,06-053-0004,36.699652,-121.634626,25.0,COMMERCIAL,SUBURBAN,California,Monterey,53,Salinas,"Salinas, CA",5 PM PST, Mar 10,41,OZONE
+155,06-053-0005,36.227466,-121.116584,116.0,INDUSTRIAL,RURAL,California,Monterey,53,King City,"Salinas, CA",5 PM PST, Mar 10,39,OZONE
+156,06-053-0006,36.574682,-121.806339,73.0,COMMERCIAL,RURAL,California,Monterey,53,Monterey,"Salinas, CA",5 PM PST, Mar 10,41,OZONE
+157,06-053-0007,36.8044,-121.786895,10.0,COMMERCIAL,RURAL,California,Monterey,53,Moss Landing,"Salinas, CA",5 PM PST, Mar 10,39,OZONE
+158,06-053-2001,36.51163,-121.441603,47.0,RESIDENTIAL,SUBURBAN,California,Monterey,53,Gonzales,"Salinas, CA",5 PM PST, Mar 10,38,OZONE
+159,06-055-0001,38.296836,-122.290498,8.0,RESIDENTIAL,URBAN AND CENTER CITY,California,Napa,55,Napa,"Napa, CA",5 PM PST, Mar 10,33,OZONE
+160,06-055-0101,38.566553000000006,-122.451063,0.0,INDUSTRIAL,URBAN AND CENTER CITY,California,Napa,55,Angwin (Pacific Union College),"Napa, CA",5 PM PST, Mar 10,39,OZONE
+161,06-057-0001,39.218783,-121.053282,2410.0,RESIDENTIAL,URBAN AND CENTER CITY,California,Nevada,57,Grass Valley,"Truckee-Grass Valley, CA",5 PM PST, Mar 10,32,OZONE
+162,06-057-0002,39.267394,-121.00633700000002,777.0,RESIDENTIAL,SUBURBAN,California,Nevada,57,Nevada City,"Truckee-Grass Valley, CA",5 PM PST, Mar 10,32,OZONE
+163,06-057-0004,39.357963,-120.106586,1811.0,RESIDENTIAL,SUBURBAN,California,Nevada,57,Truckee,"Truckee-Grass Valley, CA",5 PM PST, Mar 10,18,PM2.5
+164,06-057-1002,39.324905,-120.367703,2063.0,FOREST,RURAL,California,Nevada,57,Soda Springs,"Truckee-Grass Valley, CA",5 PM PST, Mar 10,18,PM2.5
+165,06-059-0001,33.821353,-117.91427,128.0,RESIDENTIAL,SUBURBAN,California,Orange,59,Anaheim,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,36,OZONE
+166,06-059-0004,33.65502,-117.88589,18.0,RESIDENTIAL,SUBURBAN,California,Orange,59,Newport Beach,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,19,PM2.5
+167,06-059-0101,33.795028,-117.951719,29.0,RESIDENTIAL,URBAN AND CENTER CITY,California,Orange,59,Garden Grove,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,36,OZONE
+168,06-059-1001,33.656976,-117.929495,15.0,RESIDENTIAL,SUBURBAN,California,Orange,59,Costa Mesa,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,19,PM2.5
+169,06-059-2001,33.627244,-117.691163,137.0,RESIDENTIAL,SUBURBAN,California,Orange,59,El Toro,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,41,OZONE
+170,06-059-2022,33.63003,-117.67593,161.0,RESIDENTIAL,SUBURBAN,California,Orange,59,Mission Viejo,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,41,OZONE
+171,06-059-3002,33.795849,-118.03284,10.0,RESIDENTIAL,SUBURBAN,California,Orange,59,Los Alamitos,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,36,OZONE
+172,06-059-4001,33.545869,-117.78143500000002,12.0,COMMERCIAL,URBAN AND CENTER CITY,California,Orange,59,Laguna Beach,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,41,OZONE
+173,06-059-5001,33.92513,-117.95264,82.0,RESIDENTIAL,SUBURBAN,California,Orange,59,La Habra,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,36,OZONE
+174,06-059-8001,33.750573,-117.870333,63.0,COMMERCIAL,URBAN AND CENTER CITY,California,Orange,59,Santa Ana,"Los Angeles-Long Beach-Anaheim, CA",5 PM PST, Mar 10,19,PM2.5
+175,06-061-0001,38.93712,-121.109391,372.0,AGRICULTURAL,RURAL,California,Placer,61,Auburn,"Sacramento--Roseville--Arden-Arcade, CA",5 PM PST, Mar 10,36,OZONE
+176,06-061-0004,39.100174,-120.953832,768.0,RESIDENTIAL,SUBURBAN,California,Placer,61,Colfax,"Sacramento--Roseville--Arden-Arcade, CA",5 PM PST, Mar 10,28,OZONE
+177,06-061-0005,39.166851,-120.145747,1902.0,MOBILE,URBAN AND CENTER CITY,California,Placer,61,Tahoe City,"Sacramento--Roseville--Arden-Arcade, CA",5 PM PST, Mar 10,2,PM2.5
+178,06-061-0006,38.74643,-121.26498,48.0,MOBILE,SUBURBAN,California,Placer,61,Roseville,"Sacramento--Roseville--Arden-Arcade, CA",5 PM PST, Mar 10,27,OZONE
+179,06-061-0810,38.791845,-121.209116,101.0,RESIDENTIAL,RURAL,California,Placer,61,Rocklin,"Sacramento--Roseville--Arden-Arcade, CA",5 PM PST, Mar 10,27,OZONE
+180,06-061-1005,39.210463,-120.206584,1830.0,RESIDENTIAL,RURAL,California,Placer,61,Olympic Valley (Squaw Valley),"Sacramento--Roseville--Arden-Arcade, CA",5 PM PST, Mar 10,2,PM2.5
+181,06-061-2001,38.889891,-121.307704,112.0,RESIDENTIAL,SUBURBAN,California,Placer,61,Lincoln,"Sacramento--Roseville--Arden-Arcade, CA",5 PM PST, Mar 10,33,OZONE
+186,06-065-0001,33.925865,-116.876137,729.0,COMMERCIAL,URBAN AND CENTER CITY,California,Riverside,65,Banning,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,41,OZONE
+187,06-065-0003,33.92145,-117.57244,220.0,RESIDENTIAL,URBAN AND CENTER CITY,California,Riverside,65,Norco,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,38,OZONE
+188,06-065-0004,34.007,-117.521,70.0,RESIDENTIAL,SUBURBAN,California,Riverside,65,Mira Loma,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,42,OZONE
+189,06-065-0005,33.958348,-117.375878,294.0,AGRICULTURAL,RURAL,California,Riverside,65,Riverside,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,38,OZONE
+190,06-065-0006,33.491695,-117.146143,341.0,RESIDENTIAL,SUBURBAN,California,Riverside,65,Temecula,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,41,OZONE
+192,06-065-0008,33.7411,-115.8206,984.0,DESERT,RURAL,California,Riverside,65,Joshua Tree National Monument,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,42,OZONE
+193,06-065-0500,33.71969,-116.1897,-8.0,COMMERCIAL,RURAL,California,Riverside,65,Indio,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,37,OZONE
+194,06-065-1001,33.872807,-117.566433,219.0,COMMERCIAL,URBAN AND CENTER CITY,California,Riverside,65,Corona,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,38,OZONE
+195,06-065-1002,33.741688,-116.95919,469.0,MOBILE,SUBURBAN,California,Riverside,65,Hemet,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,41,OZONE
+196,06-065-1999,33.56125,-116.153383,10.0,AGRICULTURAL,RURAL,California,Riverside,65,Torres-Martinez I.R.,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,37,OZONE
+197,06-065-2005,33.572019,-116.063823,-11.0,AGRICULTURAL,SUBURBAN,California,Riverside,65,Mecca,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,37,OZONE
+198,06-065-3011,33.796533000000004,-116.974417,459.0,RESIDENTIAL,RURAL,California,Riverside,65,San Jacinto,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,41,OZONE
+199,06-065-5001,33.85275,-116.54101,171.0,RESIDENTIAL,SUBURBAN,California,Riverside,65,Palm Springs,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,46,PM10
+200,06-065-6001,33.78942,-117.22764,439.0,COMMERCIAL,URBAN AND CENTER CITY,California,Riverside,65,Perris,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,41,OZONE
+201,06-065-8001,33.99958,-117.41601,250.0,RESIDENTIAL,SUBURBAN,California,Riverside,65,Rubidoux,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,38,OZONE
+202,06-065-9001,33.67649,-117.33098,1440.0,RESIDENTIAL,SUBURBAN,California,Riverside,65,Lake Elsinore,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,39,OZONE
+203,06-067-0001,38.667126,-121.251338,52.0,RESIDENTIAL,SUBURBAN,California,Sacramento,67,Citrus Heights,"Sacramento--Roseville--Arden-Arcade, CA",5 PM PST, Mar 10,27,OZONE
+204,06-067-0003,38.585183,-121.494677,29.0,MOBILE,URBAN AND CENTER CITY,California,Sacramento,67,Sacramento,"Sacramento--Roseville--Arden-Arcade, CA",5 PM PST, Mar 10,34,OZONE
+205,06-067-0006,38.613779,-121.368014,8.0,RESIDENTIAL,SUBURBAN,California,Sacramento,67,Arden-Arcade,"Sacramento--Roseville--Arden-Arcade, CA",5 PM PST, Mar 10,33,OZONE
+206,06-067-0012,38.683304,-121.164457,98.0,RESIDENTIAL,SUBURBAN,California,Sacramento,67,Folsom,"Sacramento--Roseville--Arden-Arcade, CA",5 PM PST, Mar 10,34,OZONE
+207,06-067-3001,38.600461,-121.273839,34.0,COMMERCIAL,RURAL,California,Sacramento,67,Rancho Cordova (Mills),"Sacramento--Roseville--Arden-Arcade, CA",5 PM PST, Mar 10,33,OZONE
+208,06-069-0001,36.85551,-121.39299,107.0,COMMERCIAL,SUBURBAN,California,San Benito,69,Hollister,"San Jose-Sunnyvale-Santa Clara, CA",5 PM PST, Mar 10,39,OZONE
+209,06-071-0001,34.89398,-117.024804,690.0,COMMERCIAL,URBAN AND CENTER CITY,California,San Bernardino,71,Barstow,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,41,OZONE
+210,06-071-0003,34.107512,-117.276987,317.0,COMMERCIAL,URBAN AND CENTER CITY,California,San Bernardino,71,San Bernardino,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,39,OZONE
+212,06-071-0005,34.2431,-117.27235,1384.0,RESIDENTIAL,RURAL,California,San Bernardino,71,Crestline,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,41,OZONE
+213,06-071-0006,35.759954,-117.374779,506.0,INDUSTRIAL,URBAN AND CENTER CITY,California,San Bernardino,71,Trona,"Riverside-San Bernardino-Ontario, CA",3 PM PST, Mar 10,37,OZONE
+216,06-071-0013,34.41056,-116.9072,1036.0,INDUSTRIAL,RURAL,California,San Bernardino,71,Lucerne Valley,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,41,OZONE
+217,06-071-0014,34.512496,-117.330879,876.0,RESIDENTIAL,SUBURBAN,California,San Bernardino,71,Victorville,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,37,OZONE
+218,06-071-0017,34.141946000000004,-116.055836,607.0,MOBILE,URBAN AND CENTER CITY,California,San Bernardino,71,Twentynine Palms,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,41,OZONE
+219,06-071-0025,34.037234000000005,-117.69088899999998,287.0,INDUSTRIAL,SUBURBAN,California,San Bernardino,71,Ontario,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,33,OZONE
+220,06-071-0101,34.119189,-117.640881,149.0,RESIDENTIAL,SUBURBAN,California,San Bernardino,71,Upland,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,33,OZONE
+221,06-071-0109,34.572216999999995,-117.192543,914.0,DESERT,RURAL,California,San Bernardino,71,Apple Valley,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,37,OZONE
+222,06-071-0110,34.863876,-116.785589,587.0,DESERT,RURAL,California,San Bernardino,71,Daggett,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,41,OZONE
+224,06-071-1002,34.012512,-117.688388,222.0,COMMERCIAL,URBAN AND CENTER CITY,California,San Bernardino,71,Chino,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,34,OZONE
+225,06-071-1234,35.77417,-117.3714,545.0,DESERT,RURAL,California,San Bernardino,71,Searles Valley,"Riverside-San Bernardino-Ontario, CA",3 PM PST, Mar 10,37,OZONE
+226,06-071-1401,34.034181,-117.055032,759.0,RESIDENTIAL,SUBURBAN,California,San Bernardino,71,Yucaipa,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,42,OZONE
+227,06-071-2002,34.10002,-117.49201,381.0,INDUSTRIAL,SUBURBAN,California,San Bernardino,71,Fontana,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,39,OZONE
+228,06-071-4001,34.41639,-117.2858,1006.0,RESIDENTIAL,SUBURBAN,California,San Bernardino,71,Hesperia,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,40,OZONE
+229,06-071-4002,34.06668,-117.15087,408.0,RESIDENTIAL,SUBURBAN,California,San Bernardino,71,Redlands,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,42,OZONE
+231,06-071-8001,34.26464,-116.86147,2056.0,COMMERCIAL,SUBURBAN,California,San Bernardino,71,Big Bear City,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,41,OZONE
+232,06-071-9000,34.724711,-116.158623,543.0,DESERT,RURAL,California,San Bernardino,71,Ludlow,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,41,OZONE
+233,06-071-9003,34.737764,-117.56588899999998,1256.0,DESERT,RURAL,California,San Bernardino,71,El Mirage,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,32,OZONE
+234,06-071-9007,34.737764,-117.56588899999998,1013.0,DESERT,RURAL,California,San Bernardino,71,Hinkley,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,41,OZONE
+235,06-071-9008,34.611659,-117.289768,1366.0,FOREST,RURAL,California,San Bernardino,71,Helendale,"Riverside-San Bernardino-Ontario, CA",5 PM PST, Mar 10,37,OZONE
+236,06-073-0001,32.631242,-117.059088,53.0,RESIDENTIAL,SUBURBAN,California,San Diego,73,Chula Vista,"San Diego-Carlsbad, CA",5 PM PST, Mar 10,41,OZONE
+237,06-073-0002,32.79394,-116.961138,133.0,COMMERCIAL,SUBURBAN,California,San Diego,73,El Cajon,"San Diego-Carlsbad, CA",5 PM PST, Mar 10,39,OZONE
+239,06-073-0006,32.836461,-117.128752,135.0,COMMERCIAL,SUBURBAN,California,San Diego,73,San Diego,"San Diego-Carlsbad, CA",5 PM PST, Mar 10,41,OZONE
+240,06-073-0077,32.6509,-116.365,1018.15,DESERT,RURAL,California,San Diego,73,Campo,"San Diego-Carlsbad, CA",5 PM PST, Mar 10,42,OZONE
+241,06-073-1001,32.952124,-117.264088,35.0,RESIDENTIAL,SUBURBAN,California,San Diego,73,Del Mar,"San Diego-Carlsbad, CA",5 PM PST, Mar 10,41,OZONE
+242,06-073-1002,33.127769,-117.075086,202.0,COMMERCIAL,URBAN AND CENTER CITY,California,San Diego,73,Escondido,"San Diego-Carlsbad, CA",5 PM PST, Mar 10,39,OZONE
+243,06-073-1006,32.842318,-116.768293,627.0,RESIDENTIAL,SUBURBAN,California,San Diego,73,Alpine,"San Diego-Carlsbad, CA",5 PM PST, Mar 10,42,OZONE
+244,06-073-1008,33.217055,-117.396177,16.0,MILITARY RESERVATION,SUBURBAN,California,San Diego,73,Camp Pendleton South,"San Diego-Carlsbad, CA",5 PM PST, Mar 10,41,OZONE
+245,06-073-1011,32.725226,-116.365203,1372.21,DESERT,RURAL,California,San Diego,73,Boulevard,"San Diego-Carlsbad, CA",5 PM PST, Mar 10,59,PM10
+246,06-073-1014,32.57816,-116.92135,199.0,COMMERCIAL,RURAL,California,San Diego,73,Otay Mesa,"San Diego-Carlsbad, CA",5 PM PST, Mar 10,41,OZONE
+247,06-073-1020,33.128569,-117.27166499999998,99.0,COMMERCIAL,SUBURBAN,California,San Diego,73,Carlsbad,"San Diego-Carlsbad, CA",5 PM PST, Mar 10,41,OZONE
+248,06-073-1201,33.362593,-117.09023,109.728,COMMERCIAL,RURAL,California,San Diego,73,Pala,"San Diego-Carlsbad, CA",5 PM PST, Mar 10,41,OZONE
+249,06-073-4001,32.5834,-117.119742,9.0,RESIDENTIAL,SUBURBAN,California,San Diego,73,Imperial Beach,"San Diego-Carlsbad, CA",5 PM PST, Mar 10,41,OZONE
+250,06-073-7001,32.9981,-117.267537,55.0,UNKNOWN,UNKNOWN,California,San Diego,73,Solana Beach,"San Diego-Carlsbad, CA",5 PM PST, Mar 10,41,OZONE
+251,06-073-8001,33.210049,-117.249195,113.0,RESIDENTIAL,SUBURBAN,California,San Diego,73,Vista,"San Diego-Carlsbad, CA",5 PM PST, Mar 10,39,OZONE
+252,06-075-0001,37.77879,-122.419106,17.0,COMMERCIAL,URBAN AND CENTER CITY,California,San Francisco,75,San Francisco,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,42,OZONE
+253,06-077-0001,38.133237,-121.275747,22.0,COMMERCIAL,URBAN AND CENTER CITY,California,San Joaquin,77,Lodi,"Stockton-Lodi, CA",5 PM PST, Mar 10,31,OZONE
+254,06-077-0003,37.95213,-121.283245,5.0,COMMERCIAL,SUBURBAN,California,San Joaquin,77,Stockton,"Stockton-Lodi, CA",5 PM PST, Mar 10,31,OZONE
+255,06-077-1001,37.738524,-121.123516,20.0,MOBILE,URBAN AND CENTER CITY,California,San Joaquin,77,Ripon,"Stockton-Lodi, CA",5 PM PST, Mar 10,34,OZONE
+256,06-077-2010,37.793392,-121.247874,11.0,RESIDENTIAL,SUBURBAN,California,San Joaquin,77,Manteca,"Stockton-Lodi, CA",5 PM PST, Mar 10,31,OZONE
+257,06-077-3001,37.739911,-121.43158,24.0,COMMERCIAL,URBAN AND CENTER CITY,California,San Joaquin,77,Tracy,"Stockton-Lodi, CA",5 PM PST, Mar 10,31,OZONE
+258,06-079-0001,35.174976,-120.537111,100.0,UNKNOWN,UNKNOWN,California,San Luis Obispo,79,Arroyo Grande,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",5 PM PST, Mar 10,35,OZONE
+259,06-079-0003,35.320252,-120.696284,129.0,RESIDENTIAL,RURAL,California,San Luis Obispo,79,San Luis Obispo,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",5 PM PST, Mar 10,9,PM2.5
+260,06-079-0005,35.614668,-120.656912,100.0,RESIDENTIAL,SUBURBAN,California,San Luis Obispo,79,El Paso de Robles (corporate name for Paso Robles),"San Luis Obispo-Paso Robles-Arroyo Grande, CA",5 PM PST, Mar 10,39,OZONE
+261,06-079-1001,35.67358,-120.637113,255.0,AGRICULTURAL,RURAL,California,San Luis Obispo,79,Paso Robles,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",5 PM PST, Mar 10,39,OZONE
+262,06-079-1002,35.361363,-120.812122,6.0,RESIDENTIAL,RURAL,California,San Luis Obispo,79,Morro Bay,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",5 PM PST, Mar 10,41,OZONE
+263,06-079-2001,35.12389,-120.63215,5.0,RESIDENTIAL,SUBURBAN,California,San Luis Obispo,79,Grover Beach,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",5 PM PST, Mar 10,35,OZONE
+264,06-079-2003,35.02081,-120.534612,70.0,AGRICULTURAL,RURAL,California,San Luis Obispo,79,Nipomo,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",5 PM PST, Mar 10,35,OZONE
+265,06-079-5001,35.142754,-120.632116,10.0,RESIDENTIAL,SUBURBAN,California,San Luis Obispo,79,Pismo Beach (Pismo),"San Luis Obispo-Paso Robles-Arroyo Grande, CA",5 PM PST, Mar 10,9,PM2.5
+266,06-079-8001,35.49158,-120.66804,277.0,COMMERCIAL,SUBURBAN,California,San Luis Obispo,79,Atascadero,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",5 PM PST, Mar 10,33,OZONE
+267,06-081-0001,37.597157,-122.364693,9.0,COMMERCIAL,SUBURBAN,California,San Mateo,81,Burlingame,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,41,OZONE
+268,06-081-1001,37.482934,-122.20337,3.0,INDUSTRIAL,SUBURBAN,California,San Mateo,81,Redwood City,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,41,OZONE
+269,06-081-2001,37.584101,-122.251078,15.0,MOBILE,SUBURBAN,California,San Mateo,81,San Mateo,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,41,OZONE
+270,06-081-2002,37.508813,-122.247291,1.0,COMMERCIAL,URBAN AND CENTER CITY,California,San Mateo,81,San Carlos,"San Francisco-Oakland-Hayward, CA",5 PM PST, Mar 10,41,OZONE
+271,06-083-0001,34.338607,-119.505121,15.0,COMMERCIAL,URBAN AND CENTER CITY,California,Santa Barbara,83,Carpinteria,"Santa Maria-Santa Barbara, CA",5 PM PST, Mar 10,31,OZONE
+272,06-083-0002,34.513601,-120.006531,30.0,COMMERCIAL,URBAN AND CENTER CITY,California,Santa Barbara,83,Lompoc,"Santa Maria-Santa Barbara, CA",5 PM PST, Mar 10,35,OZONE
+273,06-083-0004,34.419996999999995,-119.70069,27.0,COMMERCIAL,URBAN AND CENTER CITY,California,Santa Barbara,83,Santa Barbara,"Santa Maria-Santa Barbara, CA",5 PM PST, Mar 10,41,OZONE
+274,06-083-0007,34.434994,-119.912917,45.0,AGRICULTURAL,RURAL,California,Santa Barbara,83,Goleta,"Santa Maria-Santa Barbara, CA",5 PM PST, Mar 10,35,OZONE
+275,06-083-0008,34.46245,-120.02551,42.0,AGRICULTURAL,RURAL,California,Santa Barbara,83,Capitan,"Santa Maria-Santa Barbara, CA",5 PM PST, Mar 10,38,OZONE
+277,06-083-1011,34.511652000000005,-120.49988700000002,6.0,AGRICULTURAL,RURAL,California,Santa Barbara,83,Jalama,"Santa Maria-Santa Barbara, CA",5 PM PST, Mar 10,35,OZONE
+278,06-083-1012,34.451931,-120.458773,55.0,AGRICULTURAL,RURAL,California,Santa Barbara,83,Concepcion,"Santa Maria-Santa Barbara, CA",5 PM PST, Mar 10,35,OZONE
+279,06-083-1014,34.54166,-119.79146,371.0,FOREST,RURAL,California,Santa Barbara,83,Los Padres National Forest,"Santa Maria-Santa Barbara, CA",5 PM PST, Mar 10,32,OZONE
+280,06-083-1015,34.478045,-120.21181599999998,91.0,AGRICULTURAL,RURAL,California,Santa Barbara,83,Gaviota,"Santa Maria-Santa Barbara, CA",5 PM PST, Mar 10,38,OZONE
+281,06-083-1020,34.414942,-119.879511,9.0,AGRICULTURAL,RURAL,California,Santa Barbara,83,Isla Vista,"Santa Maria-Santa Barbara, CA",5 PM PST, Mar 10,35,OZONE
+282,06-083-1029,34.9322,-120.607671,122.0,AGRICULTURAL,RURAL,California,Santa Barbara,83,Guadalupe,"Santa Maria-Santa Barbara, CA",5 PM PST, Mar 10,35,OZONE
+283,06-083-2012,34.001689,-120.04823,18.0,FOREST,RURAL,California,Santa Barbara,83,Channel Islands National Park,"Santa Maria-Santa Barbara, CA",5 PM PST, Mar 10,40,OZONE
+284,06-083-4002,34.709426,-120.535722,137.0,MOBILE,URBAN AND CENTER CITY,California,Santa Barbara,83,Vandenberg Air Force Base,"Santa Maria-Santa Barbara, CA",5 PM PST, Mar 10,35,OZONE
+285,06-085-0001,37.001337,-121.51493899999998,55.0,COMMERCIAL,URBAN AND CENTER CITY,California,Santa Clara,85,Gilroy,"San Jose-Sunnyvale-Santa Clara, CA",5 PM PST, Mar 10,39,OZONE
+286,06-085-0003,37.315471,-121.875197,41.0,COMMERCIAL,URBAN AND CENTER CITY,California,Santa Clara,85,San Jose,"San Jose-Sunnyvale-Santa Clara, CA",5 PM PST, Mar 10,37,OZONE
+287,06-085-1001,37.226862,-121.979675,116.0,RESIDENTIAL,URBAN AND CENTER CITY,California,Santa Clara,85,Los Gatos,"San Jose-Sunnyvale-Santa Clara, CA",5 PM PST, Mar 10,37,OZONE
+288,06-085-1002,37.3735,-122.077,43.0,RESIDENTIAL,SUBURBAN,California,Santa Clara,85,Mountain View,"San Jose-Sunnyvale-Santa Clara, CA",5 PM PST, Mar 10,41,OZONE
+289,06-085-2001,37.335469,-122.061035,26.0,INDUSTRIAL,SUBURBAN,California,Santa Clara,85,Cupertino,"San Jose-Sunnyvale-Santa Clara, CA",5 PM PST, Mar 10,37,OZONE
+290,06-085-2002,37.315748,-121.93242,33.0,COMMERCIAL,URBAN AND CENTER CITY,California,Santa Clara,85,Fruitdale,"San Jose-Sunnyvale-Santa Clara, CA",5 PM PST, Mar 10,41,OZONE
+291,06-085-2006,37.079379,-121.600031,86.0,RESIDENTIAL,RURAL,California,Santa Clara,85,San Martin,"San Jose-Sunnyvale-Santa Clara, CA",5 PM PST, Mar 10,39,OZONE
+292,06-085-2007,37.355475,-122.050845,56.0,RESIDENTIAL,URBAN AND CENTER CITY,California,Santa Clara,85,Sunnyvale,"San Jose-Sunnyvale-Santa Clara, CA",5 PM PST, Mar 10,37,OZONE
+293,06-085-2010,37.457621,-122.112286,2.0,COMMERCIAL,URBAN AND CENTER CITY,California,Santa Clara,85,Palo Alto,"San Jose-Sunnyvale-Santa Clara, CA",5 PM PST, Mar 10,41,OZONE
+294,06-087-0001,36.98995,-121.925792,78.0,RESIDENTIAL,SUBURBAN,California,Santa Cruz,87,Aptos,"Santa Cruz-Watsonville, CA",5 PM PST, Mar 10,39,OZONE
+295,06-087-0002,36.984672,-122.004406,21.0,RESIDENTIAL,URBAN AND CENTER CITY,California,Santa Cruz,87,Santa Cruz,"Santa Cruz-Watsonville, CA",5 PM PST, Mar 10,39,OZONE
+296,06-087-0003,37.011894,-122.19441299999998,0.0,RESIDENTIAL,RURAL,California,Santa Cruz,87,Davenport,"Santa Cruz-Watsonville, CA",5 PM PST, Mar 10,39,OZONE
+297,06-087-0004,36.933285,-121.796896,67.0,COMMERCIAL,SUBURBAN,California,Santa Cruz,87,Watsonville,"Santa Cruz-Watsonville, CA",5 PM PST, Mar 10,39,OZONE
+298,06-087-0005,37.062448,-121.992739,0.0,RESIDENTIAL,SUBURBAN,California,Santa Cruz,87,Scotts Valley,"Santa Cruz-Watsonville, CA",5 PM PST, Mar 10,8,PM2.5
+299,06-087-0007,36.98332,-121.98822,28.0,COMMERCIAL,SUBURBAN,California,Santa Cruz,87,Live Oak,"Santa Cruz-Watsonville, CA",5 PM PST, Mar 10,1,PM2.5
+300,06-087-1004,37.048008,-122.075695,88.0,RESIDENTIAL,SUBURBAN,California,Santa Cruz,87,Felton,"Santa Cruz-Watsonville, CA",5 PM PST, Mar 10,8,PM2.5
+301,06-089-0001,40.467357,-122.289977,125.0,RESIDENTIAL,SUBURBAN,California,Shasta,89,Anderson,"Redding, CA",5 PM PST, Mar 10,34,OZONE
+302,06-089-0004,40.55013,-122.38092,149.0,COMMERCIAL,SUBURBAN,California,Shasta,89,Redding,"Redding, CA",5 PM PST, Mar 10,34,OZONE
+303,06-089-0008,40.67707,-122.37429,246.0,RESIDENTIAL,SUBURBAN,California,Shasta,89,Shasta Lake,"Redding, CA",5 PM PST, Mar 10,34,OZONE
+304,06-089-1001,40.90516,-121.65332,945.0,INDUSTRIAL,RURAL,California,Shasta,89,Burney,"Redding, CA",5 PM PST, Mar 10,42,OZONE
+313,06-095-0001,38.052142,-122.145799,18.0,COMMERCIAL,URBAN AND CENTER CITY,California,Solano,95,Benicia,"Vallejo-Fairfield, CA",5 PM PST, Mar 10,32,OZONE
+314,06-095-0002,38.2455,-122.0539,4.0,RESIDENTIAL,SUBURBAN,California,Solano,95,Fairfield,"Vallejo-Fairfield, CA",5 PM PST, Mar 10,39,OZONE
+315,06-095-0003,38.106007,-122.237717,29.0,COMMERCIAL,URBAN AND CENTER CITY,California,Solano,95,Vallejo,"Vallejo-Fairfield, CA",5 PM PST, Mar 10,32,OZONE
+316,06-095-1002,38.157139,-121.692177,12.0,COMMERCIAL,URBAN AND CENTER CITY,California,Solano,95,Rio Vista,"Vallejo-Fairfield, CA",5 PM PST, Mar 10,10,PM2.5
+317,06-095-3001,38.3514,-121.9941,59.0,COMMERCIAL,URBAN AND CENTER CITY,California,Solano,95,Vacaville,"Vallejo-Fairfield, CA",5 PM PST, Mar 10,38,OZONE
+318,06-097-0001,38.804267,-123.018142,91.0,COMMERCIAL,URBAN AND CENTER CITY,California,Sonoma,97,Cloverdale,"Santa Rosa, CA",5 PM PST, Mar 10,32,OZONE
+319,06-097-0002,38.610905,-122.868794,30.0,COMMERCIAL,URBAN AND CENTER CITY,California,Sonoma,97,Healdsburg,"Santa Rosa, CA",5 PM PST, Mar 10,38,OZONE
+320,06-097-0003,38.443503,-122.710169,51.0,COMMERCIAL,URBAN AND CENTER CITY,California,Sonoma,97,Santa Rosa,"Santa Rosa, CA",5 PM PST, Mar 10,38,OZONE
+321,06-097-0004,38.403765,-122.818294,78.0,COMMERCIAL,URBAN AND CENTER CITY,California,Sonoma,97,Sebastopol,"Santa Rosa, CA",5 PM PST, Mar 10,38,OZONE
+322,06-097-1002,38.188529,-122.63054,14.0,RESIDENTIAL,URBAN AND CENTER CITY,California,Sonoma,97,Petaluma,"Santa Rosa, CA",5 PM PST, Mar 10,38,OZONE
+323,06-097-3002,38.501112,-122.998181,12.0,MOBILE,URBAN AND CENTER CITY,California,Sonoma,97,Guerneville,"Santa Rosa, CA",5 PM PST, Mar 10,38,OZONE
+324,06-097-4001,38.295747,-122.457758,20.0,RESIDENTIAL,SUBURBAN,California,Sonoma,97,Sonoma,"Santa Rosa, CA",5 PM PST, Mar 10,33,OZONE
+325,06-099-0001,37.640763,-120.999378,53.0,COMMERCIAL,URBAN AND CENTER CITY,California,Stanislaus,99,Modesto,"Modesto, CA",5 PM PST, Mar 10,34,OZONE
+326,06-099-0006,37.488317,-120.836008,56.0,RESIDENTIAL,SUBURBAN,California,Stanislaus,99,Turlock,"Modesto, CA",5 PM PST, Mar 10,34,OZONE
+327,06-099-1004,37.371047,-121.133265,0.0,AGRICULTURAL,RURAL,California,Stanislaus,99,Crows Landing,"Modesto, CA",5 PM PST, Mar 10,34,OZONE
+328,06-099-2003,37.538265,-121.272993,90.0,MOBILE,RURAL,California,Stanislaus,99,Westley,"Modesto, CA",5 PM PST, Mar 10,34,OZONE
+329,06-101-0002,38.848232,-121.51523600000002,50.0,AGRICULTURAL,RURAL,California,Sutter,101,Pleasant Grove,"Yuba City, CA",5 PM PST, Mar 10,36,OZONE
+330,06-101-0003,39.138773,-121.618549,20.0,COMMERCIAL,SUBURBAN,California,Sutter,101,Yuba City,"Yuba City, CA",5 PM PST, Mar 10,35,OZONE
+331,06-101-0004,39.205572,-121.82036200000002,640.0,AGRICULTURAL,RURAL,California,Sutter,101,Sutter,"Yuba City, CA",5 PM PST, Mar 10,35,OZONE
+332,06-103-0001,40.177655,-122.245552,119.0,RESIDENTIAL,SUBURBAN,California,Tehama,103,Red Bluff,"Red Bluff, CA",5 PM PST, Mar 10,12,PM2.5
+333,06-103-1001,40.033213,-122.084433,72.0,AGRICULTURAL,RURAL,California,Tehama,103,Los Molinos,"Red Bluff, CA",5 PM PST, Mar 10,12,PM2.5
+336,06-107-0007,36.736613,-118.957608,2012.0,FOREST,RURAL,California,Tulare,107,Kings Canyon National Park,"Visalia-Porterville, CA",5 PM PST, Mar 10,39,OZONE
+337,06-107-0008,36.429113,-118.76343,0.0,FOREST,RURAL,California,Tulare,107,Mineral King,"Visalia-Porterville, CA",5 PM PST, Mar 10,39,OZONE
+338,06-107-1002,35.883285,-118.917597,240.0,UNKNOWN,UNKNOWN,California,Tulare,107,Fountain Springs,"Visalia-Porterville, CA",5 PM PST, Mar 10,17,PM2.5
+339,06-107-2002,36.332179,-119.291228,97.0,COMMERCIAL,URBAN AND CENTER CITY,California,Tulare,107,Visalia,"Visalia-Porterville, CA",5 PM PST, Mar 10,30,OZONE
+340,06-107-2010,36.031831,-119.055018,136.25,AGRICULTURAL,RURAL,California,Tulare,107,Porterville,"Visalia-Porterville, CA",5 PM PST, Mar 10,30,OZONE
+341,06-109-0001,37.985757,-120.384083,531.0,COMMERCIAL,URBAN AND CENTER CITY,California,Tuolumne,109,Sonora,"Sonora, CA",5 PM PST, Mar 10,34,OZONE
+342,06-109-1001,37.965472,-120.233773,792.0,RESIDENTIAL,SUBURBAN,California,Tuolumne,109,Tuolumne City,"Sonora, CA",5 PM PST, Mar 10,34,OZONE
+343,06-111-0001,34.215841999999995,-119.038697,60.0,COMMERCIAL,URBAN AND CENTER CITY,California,Ventura,111,Camarillo,"Oxnard-Thousand Oaks-Ventura, CA",5 PM PST, Mar 10,40,OZONE
+344,06-111-0004,34.398608,-118.824817,182.0,AGRICULTURAL,RURAL,California,Ventura,111,Piru,"Oxnard-Thousand Oaks-Ventura, CA",5 PM PST, Mar 10,39,OZONE
+345,06-111-0005,34.38694,-119.416785,320.0,AGRICULTURAL,RURAL,California,Ventura,111,Oak View,"Oxnard-Thousand Oaks-Ventura, CA",5 PM PST, Mar 10,38,OZONE
+346,06-111-0007,34.210169,-118.870509,244.0,RESIDENTIAL,SUBURBAN,California,Ventura,111,Thousand Oaks,"Oxnard-Thousand Oaks-Ventura, CA",5 PM PST, Mar 10,38,OZONE
+347,06-111-1001,34.29862,-118.842582,192.0,RESIDENTIAL,SUBURBAN,California,Ventura,111,Moorpark,"Oxnard-Thousand Oaks-Ventura, CA",5 PM PST, Mar 10,38,OZONE
+348,06-111-1002,34.443605,-119.245389,229.0,MOBILE,SUBURBAN,California,Ventura,111,Ojai,"Oxnard-Thousand Oaks-Ventura, CA",5 PM PST, Mar 10,38,OZONE
+349,06-111-2002,34.276315999999994,-118.683685,314.0,RESIDENTIAL,SUBURBAN,California,Ventura,111,Simi Valley,"Oxnard-Thousand Oaks-Ventura, CA",5 PM PST, Mar 10,40,OZONE
+350,06-111-2003,34.280401,-119.314557,3.0,RESIDENTIAL,SUBURBAN,California,Ventura,111,Ventura,"Oxnard-Thousand Oaks-Ventura, CA",5 PM PST, Mar 10,40,OZONE
+351,06-111-4002,34.749981,-119.087606,1585.0,UNKNOWN,RURAL,California,Ventura,111,Lockwood Valley,"Oxnard-Thousand Oaks-Ventura, CA",5 PM PST, Mar 10,38,OZONE
+352,06-111-5001,34.145561,-119.201497,7.0,UNKNOWN,RURAL,California,Ventura,111,Port Hueneme,"Oxnard-Thousand Oaks-Ventura, CA",5 PM PST, Mar 10,40,OZONE
+353,06-111-6001,34.354173,-119.065921,88.0,COMMERCIAL,URBAN AND CENTER CITY,California,Ventura,111,Santa Paula,"Oxnard-Thousand Oaks-Ventura, CA",5 PM PST, Mar 10,40,OZONE
+354,06-111-9001,34.276395,-119.253147,48.0,COMMERCIAL,URBAN AND CENTER CITY,California,Ventura,111,San Buenaventura (corporate name for Ventura),"Oxnard-Thousand Oaks-Ventura, CA",5 PM PST, Mar 10,40,OZONE
+355,06-113-0001,38.591016,-121.517178,6.0,MOBILE,SUBURBAN,California,Yolo,113,Broderick-Bryte,"Sacramento--Roseville--Arden-Arcade, CA",5 PM PST, Mar 10,34,OZONE
+356,06-113-0002,38.549906,-121.734405,65.0,COMMERCIAL,URBAN AND CENTER CITY,California,Yolo,113,Davis,"Sacramento--Roseville--Arden-Arcade, CA",5 PM PST, Mar 10,35,OZONE
+357,06-113-0005,38.682961,-121.766075,17.0,AGRICULTURAL,URBAN AND CENTER CITY,California,Yolo,113,Woodland,"Sacramento--Roseville--Arden-Arcade, CA",5 PM PST, Mar 10,33,OZONE
+358,06-113-2001,38.57146,-121.52579,13.0,INDUSTRIAL,URBAN AND CENTER CITY,California,Yolo,113,West Sacramento,"Sacramento--Roseville--Arden-Arcade, CA",5 PM PST, Mar 10,34,OZONE
+359,06-113-4001,38.896843,-121.967469,25.0,AGRICULTURAL,RURAL,California,Yolo,113,Dunnigan,"Sacramento--Roseville--Arden-Arcade, CA",5 PM PST, Mar 10,33,OZONE
+360,06-115-0002,39.183505,-121.28051299999998,268.0,AGRICULTURAL,RURAL,California,Yuba,115,Smartville,"Yuba City, CA",5 PM PST, Mar 10,32,OZONE
+361,06-115-1001,39.010173,-121.426069,26.0,RESIDENTIAL,URBAN AND CENTER CITY,California,Yuba,115,Wheatland,"Yuba City, CA",5 PM PST, Mar 10,33,OZONE
