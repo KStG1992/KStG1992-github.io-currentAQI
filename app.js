@@ -13,6 +13,23 @@ function markerColor(aqi) {
         return "maroon"
     }
 }
+
+function getColor(d) {
+    if (d == 'Good') {
+        return 'green'
+    } else if (d == 'Moderate') {
+        return 'yellow'
+    } else if (d == 'Unhealthy for Sensitive Groups') {
+        return 'orange'
+    } else if (d == 'Unhealthy') {
+        return 'red'
+    } else if (d == 'Very Unhealthy') {
+        return 'purple'
+    } else {
+        return 'maroon'
+    }
+}
+
 // Read markers data from data.csv
 $.get('Data/currentAQIData.csv', function(csvString) {
     
@@ -57,5 +74,22 @@ const map = L.map('map', {
 });
 
 L.control.layers(baseMaps).addTo(map);
+
+const legend = L.control({position: 'bottomright'});
+
+    legend.onAdd = function (map) {
+        const div = L.DomUtil.create('div', 'info legend'),
+        categories = ['Good', 'Moderate', 'Unhealthy for Sensitive Groups', 'Unhealthy', 'Very Unhealthy', 'Hazardous'];
+        div.innerHTML += "<strong>Air Quality Levels of Concern</strong><br>";
+
+        for (let i = 0; i < categories.length; i++) {
+            div.innerHTML +=
+                '<i style="background:' + getColor(categories[i]) + '"></i>'
+                + categories[i] + (categories[i] ? '<br>':'+');
+        }
+        return div;
+    };
+
+    legend.addTo(map);
 
 
